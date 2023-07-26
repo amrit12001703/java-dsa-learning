@@ -1,4 +1,4 @@
-public class P005_Operators {
+public class P005_Switch_Case {
     public static void main(String[] arg) {
         int i = 9;
         switch (i) {
