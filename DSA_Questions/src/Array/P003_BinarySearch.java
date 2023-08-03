@@ -1,3 +1,5 @@
+package Array;
+
 public class P003_BinarySearch {
 
     //Iterative

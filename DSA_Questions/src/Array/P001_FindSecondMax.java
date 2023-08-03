@@ -1,4 +1,6 @@
-public class P001_FindSecondMaxInJava {
+package Array;
+
+public class P001_FindSecondMax {
     public static void findSecondMax(int[] arr){
         int max=Integer.MIN_VALUE;
         int secondMax=Integer.MIN_VALUE;
