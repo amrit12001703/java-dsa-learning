@@ -3,7 +3,7 @@ package Recursion;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GenerateSubsetsArray {
+public class P009_GenerateSubsetsArray {
     public static void generateSubsets(int[]nums,List<Integer> curr,int index,List<List<Integer>> res){
 
         if(index==nums.length){
