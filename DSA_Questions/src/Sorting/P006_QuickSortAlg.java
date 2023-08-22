@@ -2,6 +2,7 @@ package Sorting;
 
 public class P006_QuickSortAlg {
 
+    //Lomuto Partition
     static int partition(int arr[], int l, int h)
     {
         int pivot=arr[h];

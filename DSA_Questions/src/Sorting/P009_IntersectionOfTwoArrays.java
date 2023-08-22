@@ -12,6 +12,7 @@ public class P009_IntersectionOfTwoArrays {
         int i=0;
         int j=0;
         while(i<nums1.length && j<nums2.length){
+            //To escape duplicate element
             if(i>0 && nums1[i]==nums1[i-1]){
                 i++;
                 continue;
