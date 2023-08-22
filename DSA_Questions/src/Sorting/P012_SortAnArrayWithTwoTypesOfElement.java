@@ -1,6 +1,4 @@
 package Sorting;
-
-import java.util.Collections;
 import java.util.Scanner;
 
 public class P012_SortAnArrayWithTwoTypesOfElement {
